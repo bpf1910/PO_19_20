@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=Comprador
+comment0.text=\r\n\ Subclasse\ Comprador\ \:\:\ Utilizador\ standart\ da\ aplica\u00E7\u00E3o,\ que\ efetua\ as\ \r\n\ encomendas\ a\ uma\ dada\ Loja/Empresa.\r\n
+comment1.params=
+comment1.target=Comprador()
+comment2.params=c
+comment2.target=Comprador(Comprador)
+comment3.params=email\ pass\ name\ coord\ e
+comment3.target=Comprador(java.lang.String,\ java.lang.String,\ java.lang.String,\ Localizacao,\ java.util.List)
+comment4.params=
+comment4.target=java.util.List\ getEncomenda()
+comment4.text=\r\n\ M\u00E9todos\ get\ e\ set\r\n
+comment5.params=enc
+comment5.target=void\ setEncomenda(java.util.List)
+comment6.params=
+comment6.target=Comprador\ clone()
+comment6.text=\r\n\ Clone\r\n
+comment7.params=o
+comment7.target=boolean\ equals(java.lang.Object)
+comment7.text=\r\n\ Equals\r\n
+comment8.params=
+comment8.target=java.lang.String\ toString()
+comment8.text=\r\n\ toString\r\n
+comment9.params=
+comment9.target=java.lang.String\ stringtoFile()
+comment9.text=\r\n\ toFile\r\n
+numComments=10
